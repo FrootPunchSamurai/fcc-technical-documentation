@@ -102,7 +102,7 @@ code {
     border-radius: 5px;
 }
 
-/* @media only screen and (max-width: 815px) {
+@media only screen and (max-width: 815px) {
 
     /* For mobile phones: */
     #navbar ul {
@@ -128,7 +128,7 @@ code {
         margin-left: 0px;
         margin-top: 270px;
     }
-} */
+}
 
 @media only screen and (max-width: 400px) {
     #main-doc {
